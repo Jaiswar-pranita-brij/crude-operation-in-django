@@ -1,0 +1,1 @@
+# crude-operation-in-django
